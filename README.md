@@ -1,6 +1,6 @@
 # Q2-2021-Volume-Analysis
-GitHub Portfolio: Q2 2021 Volume Analysis
-Email Request
+#GitHub Portfolio: Q2 2021 Volume Analysis
+#Email Request
 The board is asking to see how volume looks in Q2. I got some data gathered but didn’t have a chance to pull anything together and was hoping you could take a stab at it.
 I think they just want to see the Q2 2021 volume by region and wanted to know if everything was looking good. I think this file has what you need. I don’t remember all the region codes – I know NAAM ends in 1, EMEA ends in 3, and APAC and LATAM are 2 and 4, but I don’t remember which is which. I do know LATAM has the lowest volume, so just go ahead and assign that to whichever comes out lowest.
 
@@ -9,6 +9,7 @@ I think they just want to see the Q2 2021 volume by region and wanted to know if
 The data was wrapped together, making it difficult to read. I unwrapped it using the wrap/unwrap text ribbon in the Home button of Excel.
 AutoFit Column Width
 Used AutoFit Column Width in the Format ribbon to ensure data readability.
+
 #Table Creation
 Created a table using Ctrl + T and named it "Volume by Client", since it is a client volume dataset.
 Checked for blanks using the filter option. No blanks were found.
